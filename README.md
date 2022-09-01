@@ -1,8 +1,8 @@
 # Сам алфавит
 - Aa Bb Cc Čč Dd Ee Ff Gg Hh Ii
 - Jj Kk Ll Mm Nn Oo Pp Rr Ss Šš
-- Şş(1.1) Tt Uu Vv Xx Yy Zz Žž 
-- Ḃḃ Ḋḋ Ḟḟ Ġġ Ḣḣ Ḳḳ Ḷḷ Ṁṁ Ṅṅ Ṗṗ Ṙṙ Ṡṡ Ṧṧ(1.2) Ṫṫ Ṿṿ Ẋẋ Żż
+- Şş<sup>(1.1)</sup> Tt Uu Vv Xx Yy Zz Žž 
+- Ḃḃ Ḋḋ Ḟḟ Ġġ Ḣḣ Ḳḳ Ḷḷ Ṁṁ Ṅṅ Ṗṗ Ṙṙ Ṡṡ Ṧṧ<sup>(1.2)</sup> Ṫṫ Ṿṿ Ẋẋ Żż
 
 1.1. Если нет Ṧṧ
 
